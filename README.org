@@ -1,0 +1,15 @@
+
+* Assignment
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2020-06-01 月 20:29
+  :ARCHIVE_FILE: ~/src/optimization/README.org
+  :ARCHIVE_CATEGORY: README
+  :END:
+
+f
+凸:  \(|| b - Aw ||^2\)
+
+
+
+[[complexity.png]]
+[[file:time.png]]
