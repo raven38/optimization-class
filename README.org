@@ -1,4 +1,9 @@
 * Assignment
 
+f
+凸:  $|| b - Aw ||^2$
+
+
+
 [[complexity.png]]
 [[file:time.png]]
